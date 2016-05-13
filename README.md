@@ -1,4 +1,4 @@
 # AddressBook
 addressBook android app project
 
-this is the project for CST2301
+just want to test the ability to merg the project for CST2301 android project
